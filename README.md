@@ -1,6 +1,7 @@
 # HIAS 2026–2027 选课浏览器
 
 杭州高等研究院 2026–2027 学年选课浏览与模拟工具。单个 HTML 文件，无需安装、无需联网，浏览器直接打开即可使用。
+**项目参考自 HIAS-lessons：https://AaronChou313.github.io/HIAS-lessons
 
 ## 功能
 
@@ -35,9 +36,9 @@
 
 ## 部署到 GitHub Pages
 
-1. 将代码推送到 GitHub 仓库（本项目对应 `AaronChou313/HIAS-lessons`）
+1. 将代码推送到 GitHub 仓库（本项目对应 `raine-w/HIAS-lessons`）
 2. 进入仓库 **Settings → Pages**，在 "Build and deployment" 中选择 **Source: Deploy from a branch**，分支选 `master`（或 `main`），目录选 `/ (root)`
-3. 保存后站点即可通过 `https://<用户名>.github.io/<仓库名>/` 访问（本项目为 `https://AaronChou313.github.io/HIAS-lessons/`）
+3. 保存后站点即可通过 `https://<用户名>.github.io/<仓库名>/` 访问（本项目为 `https://github.com/raine-w/HIAS-lessons`）
 
 `index.html` 即站点入口，无需构建步骤。仓库根目录已包含空的 `.nojekyll` 文件，用于告诉 GitHub Pages 跳过 Jekyll、原样托管静态文件（否则 Jekyll 会把页面套上默认主题）。
 
