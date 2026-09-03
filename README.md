@@ -1,7 +1,7 @@
 # HIAS 2026–2027 选课浏览器
 
 杭州高等研究院 2026–2027 学年选课浏览与模拟工具。单个 HTML 文件，无需安装、无需联网，浏览器直接打开即可使用。
-**项目参考自 HIAS-lessons：https://AaronChou313.github.io/HIAS-lessons
+**项目参考自 HIAS-lessons：https://AaronChou313.github.io/HIAS-lessons**
 
 ## 功能
 
